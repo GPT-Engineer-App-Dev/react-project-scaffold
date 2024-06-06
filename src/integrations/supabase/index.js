@@ -19,8 +19,7 @@ const fromSupabase = async (query) => {
 
 /* supabase integration types
 
-// EXAMPLE TYPES SECTION
-// DO NOT USE TYPESCRIPT
+//* supabase integration types
 
 Event // table: events
     id: number
